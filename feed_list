@@ -27,15 +27,15 @@ http://www.clever-age.com/rss/tags/symfony/45.xml
 http://www.codemassacre.com/tag/symfony/feed/
 http://laurent.bachelier.name/category/symfony/feed/
 http://feeds.feedburner.com/Strangebuzz-symfony
-feed://colordeaf.blogspot.com/feeds/posts/default/-/symfony
-feed://www.coolkeums.org/search.rss?expression=symfony
+http://colordeaf.blogspot.com/feeds/posts/default/-/symfony
+http://www.coolkeums.org/search.rss?expression=symfony
 http://www.cryptonet.be/blog/tag/symfony/feed
 http://blog.damienalexandre.fr/index.php?feed/category/symfony/rss2
 http://www.dcastello.com/category/symfony/feed
 http://www.dantleech.com/blog/feed/rss2?tag=symfony
 http://blog.vworld.at/tag/symfony/feed/
 http://www.denderello.com/blog.atom
-feed://www.designdisclosure.com/category/symfony/feed/
+http://www.designdisclosure.com/category/symfony/feed/
 http://dev.esl.eu/blog/category/symfony/feed/
 http://blog.develop7.info/tagged/symfony/rss
 http://feeds2.feedburner.com/devexp/WmQt
@@ -131,7 +131,7 @@ http://www.fizyk.net.pl/blog/tag/symfony.atom
 http://pugi-pogi.blogspot.com/feeds/posts/default
 http://www.quevidaesta.com/category/symfony/feed/
 http://rabaix.net/en/articles/tag/symfony/sf_format/atom
-feed://raphaelburnes.com/category/symfony/feed/
+http://raphaelburnes.com/category/symfony/feed/
 http://www.richsage.co.uk/category/symfony/feed
 http://chris.sedlmayr.co.uk/feed/
 http://redotheoffice.com/?feed=rss2
